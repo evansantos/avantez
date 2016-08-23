@@ -1,0 +1,10 @@
+felipeorlando:
+  name: Felipe Orlando
+  description: Lorem ipsum dolor sit amet
+  slug: felipeorlando
+  avatar: path/to/file.jpg
+evansantos:
+  name: Evan Cavalcante Santos
+  description: Lorem ipsum dolor sit amet
+  slug: evansantos
+  avatar: path/to/file.jpg
