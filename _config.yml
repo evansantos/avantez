@@ -8,6 +8,8 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
+paginate:            2
+paginate_path:      "/pagina/:num/"
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         test
