@@ -3,8 +3,25 @@ felipeorlando:
   description: Lorem ipsum dolor sit amet
   slug: felipeorlando
   avatar: path/to/file.jpg
+  facebook: ''
+  github:   ''
+  linkedin: ''
+  twitter:  ''
 evansantos:
   name: Evan Cavalcante Santos
   description: Lorem ipsum dolor sit amet
   slug: evansantos
   avatar: path/to/file.jpg
+  facebook: ''
+  github:   ''
+  linkedin: ''
+  twitter:  ''
+loremipsum:
+  name: Lorem Ipsum
+  description: Dolor sit amet
+  slug: dolorsit
+  avatar: path/to/file.jpg
+  facebook: ''
+  github:   ''
+  linkedin: ''
+  twitter:  ''

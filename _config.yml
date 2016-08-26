@@ -1,4 +1,3 @@
-
 # Syntax highlighting
 markdown:            redcarpet
 highlighter:         pygments
@@ -8,7 +7,7 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-paginate:            2
+paginate:            5
 paginate_path:      "/pagina/:num/"
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
@@ -26,17 +25,6 @@ baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
-author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
-
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
 
@@ -52,3 +40,33 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+
+# Authors
+authors:
+  felipeorlando:
+    name: Felipe Orlando
+    description: Lorem ipsum dolor sit amet
+    slug: felipeorlando
+    avatar: path/to/file.jpg
+    facebook: ''
+    github:   ''
+    linkedin: ''
+    twitter:  ''
+  evansantos:
+    name: Evan Cavalcante Santos
+    description: Lorem ipsum dolor sit amet
+    slug: evansantos
+    avatar: path/to/file.jpg
+    facebook: ''
+    github:   ''
+    linkedin: ''
+    twitter:  ''
+  loremipsum:
+    name: Lorem Ipsum
+    description: Dolor sit amet
+    slug: dolorsit
+    avatar: path/to/file.jpg
+    facebook: ''
+    github:   ''
+    linkedin: ''
+    twitter:  ''
